@@ -1,5 +1,5 @@
-This project is dedicated to an example of using KNN for regression and classification problems. The data set is 
-Iris Species data. You can find the data set here: https://www.kaggle.com/uciml/iris?select=Iris.csv
+This project is dedicated to an example of using KNN for regression and classification problems. The small data set is a subset of
+Iris data. You can find the complete data set here: https://www.kaggle.com/uciml/iris?select=Iris.csv. If you have multiple csv files, keep all of them in the Data directory. 
 
 
 ## What is in this project?
